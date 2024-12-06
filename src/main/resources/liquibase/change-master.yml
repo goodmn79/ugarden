@@ -1,0 +1,3 @@
+database changelog:
+  -include:
+    file: liquibase/scripts/ugarden_liquibase_script.sql
